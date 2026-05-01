@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: c749a8642403a6141a5f73ed986b28d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6585753883972559406
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_0
+  - first:
+      213: -881979504268103460
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_1
+  - first:
+      213: -2468051464986075187
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_2
+  - first:
+      213: 1284411839669180261
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_3
+  - first:
+      213: 2081835715093457375
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_4
+  - first:
+      213: 8413234226429140125
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_5
+  - first:
+      213: -3945233344802936789
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_6
+  - first:
+      213: 4706567719297273663
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_7
+  - first:
+      213: 7778381085409815124
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_8
+  - first:
+      213: 7158259423030943673
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_9
+  - first:
+      213: -8155455557824809844
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_10
+  - first:
+      213: -50201888273986004
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_11
+  - first:
+      213: 8138257309926517478
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_12
+  - first:
+      213: -1687459768327028145
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_13
+  - first:
+      213: -929544494994886605
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_14
+  - first:
+      213: 245308481181765605
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_15
+  - first:
+      213: -2951095227542402080
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_16
+  - first:
+      213: -3840417443823335424
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_17
+  - first:
+      213: 3982494665496681582
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_18
+  - first:
+      213: 4960946112782969291
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_19
+  - first:
+      213: 3621505078833021964
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_20
+  - first:
+      213: 23486470081388562
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_21
+  - first:
+      213: 6358840950105070606
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_22
+  - first:
+      213: -8691215440963855185
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_23
+  - first:
+      213: -291966419954932616
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_24
+  - first:
+      213: -1865366380682441508
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_25
+  - first:
+      213: -4066385081778229539
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_26
+  - first:
+      213: -3951118088557174877
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_27
+  - first:
+      213: 3824438302703414994
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_28
+  - first:
+      213: 8209634143466362935
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_29
+  - first:
+      213: -1802497313373903305
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_30
+  - first:
+      213: 7319479641797887081
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_31
+  - first:
+      213: -7012623709455350288
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_32
+  - first:
+      213: -5122168442811057808
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_33
+  - first:
+      213: 6601774156016189280
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_34
+  - first:
+      213: 1179734780971699457
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_35
+  - first:
+      213: -5552430467233706573
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_36
+  - first:
+      213: -6503100824293186087
+    second: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2252
+        width: 237
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e226550c34c456b50800000000000000
+      internalID: 6585753883972559406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0bce4505492c3f0800000000000000
+      internalID: -881979504268103460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2252
+        width: 237
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf5f16d448bfbdd0800000000000000
+      internalID: -2468051464986075187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56799c853c523d110800000000000000
+      internalID: 1284411839669180261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_4
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2252
+        width: 237
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9edd68d8a24ec10800000000000000
+      internalID: 2081835715093457375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_5
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c977624ffc1c470800000000000000
+      internalID: 8413234226429140125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_6
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2252
+        width: 237
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28aef6fc27bf39c0800000000000000
+      internalID: -3945233344802936789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_7
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc80c7766115140800000000000000
+      internalID: 4706567719297273663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_8
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2401
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2873b26c52fb60800000000000000
+      internalID: 7778381085409815124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1ad7e40f375360800000000000000
+      internalID: 7158259423030943673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2346
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fd5e216002de80800000000000000
+      internalID: -8155455557824809844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e006a06a5ad4ff0800000000000000
+      internalID: -50201888273986004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea65e0b7e5e0f070800000000000000
+      internalID: 8138257309926517478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_13
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2346
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ca100840f498e0800000000000000
+      internalID: -1687459768327028145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330f8ece4389913f0800000000000000
+      internalID: -929544494994886605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_15
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efca3193c2876300800000000000000
+      internalID: 245308481181765605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_16
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2346
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb0cffa68a9b07d0800000000000000
+      internalID: -2951095227542402080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_17
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00842b7aea814bac0800000000000000
+      internalID: -3840417443823335424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_18
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c51d05cc9a44730800000000000000
+      internalID: 3982494665496681582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2346
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9a8429432d8d440800000000000000
+      internalID: 4960946112782969291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_20
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048d108eab224230800000000000000
+      internalID: 3621505078833021964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 85
+        width: 2371
+        height: 2248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210aa32f1d0735000800000000000000
+      internalID: 23486470081388562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_22
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c583e47242f3850800000000000000
+      internalID: 6358840950105070606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_23
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1797
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac95feba99926780800000000000000
+      internalID: -8691215440963855185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_24
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8746e34861ab2fbf0800000000000000
+      internalID: -291966419954932616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_25
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1199
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc877fe823ec16e0800000000000000
+      internalID: -1865366380682441508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_26
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde29a0105c4197c0800000000000000
+      internalID: -4066385081778229539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_27
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 595
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afdde9480fca29c0800000000000000
+      internalID: -3951118088557174877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_28
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee802af52231530800000000000000
+      internalID: 3824438302703414994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381b39c1ca7ee170800000000000000
+      internalID: 8209634143466362935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736a0c75e3e3cf6e0800000000000000
+      internalID: -1802497313373903305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964011634f3049560800000000000000
+      internalID: 7319479641797887081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_32
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f58e6604e72eae90800000000000000
+      internalID: -7012623709455350288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_33
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 0
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f78e80f66ae8b0800000000000000
+      internalID: -5122168442811057808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_34
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ff2b00e963e9b50800000000000000
+      internalID: 6601774156016189280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_35
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dcdf468824f5010800000000000000
+      internalID: 1179734780971699457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd8a7878edc1f2b0800000000000000
+      internalID: -5552430467233706573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_37
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 0
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56475514850c5a0800000000000000
+      internalID: -6503100824293186087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_0: 6585753883972559406
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_1: -881979504268103460
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_10: -8155455557824809844
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_11: -50201888273986004
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_12: 8138257309926517478
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_13: -1687459768327028145
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_14: -929544494994886605
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_15: 245308481181765605
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_16: -2951095227542402080
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_17: -3840417443823335424
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_18: 3982494665496681582
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_19: 4960946112782969291
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_2: -2468051464986075187
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_20: 3621505078833021964
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_21: 23486470081388562
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_22: 6358840950105070606
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_23: -8691215440963855185
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_24: -291966419954932616
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_25: -1865366380682441508
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_26: -4066385081778229539
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_27: -3951118088557174877
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_28: 3824438302703414994
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_29: 8209634143466362935
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_3: 1284411839669180261
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_30: -1802497313373903305
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_31: 7319479641797887081
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_32: -7012623709455350288
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_33: -5122168442811057808
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_34: 6601774156016189280
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_35: 1179734780971699457
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_36: -5552430467233706573
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_37: -6503100824293186087
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_4: 2081835715093457375
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_5: 8413234226429140125
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_6: -3945233344802936789
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_7: 4706567719297273663
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_8: 7778381085409815124
+      pngtree-lightning-round-frame-blue-plasma-magical-portal-png-image_15033628_9: 7158259423030943673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
