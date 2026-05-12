@@ -77,25 +77,30 @@ public class PlatformMovement : MonoBehaviour
         // Detect if there is anything below the player
         RaycastHit2D hit = Physics2D.Raycast(rb.position, Vector2.down, playerHeight + 0.01f, groundLayer);
 
-        if (hit)
-        {
+       // if (hit)
+       // {
             // Debug.Log(hit.transform.name);
-            canJump = true;
-        }
-        else
-        {
+         //   canJump = true;
+      //  }
+      //  else
+      //  {
             // Debug.Log("Nothing was hit.");
-            canJump = false;
-        }
+         //   canJump = false;
+       // }
     }
 
     // void OnCollisionEnter2D(Collision2D other)
-    // {
-    //     if (other.gameObject.tag == "Ground")
-    //     {
-    //         canJump = true;
-    //     }
-    // }
+       // {
+           // if (other.gameObject.tag = "Ground")
+           // {
+                canjump = true;
+            //}
+       // }
+      
+        
+    
+    
+    
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Portal")
