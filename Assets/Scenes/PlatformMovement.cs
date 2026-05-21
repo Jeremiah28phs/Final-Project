@@ -89,13 +89,13 @@ public class PlatformMovement : MonoBehaviour
        // }
     }
 
-    // void OnCollisionEnter2D(Collision2D other)
-       // {
-           // if (other.gameObject.tag = "Ground")
-           // {
-                canjump = true;
-            //}
-       // }
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag == "Ground")
+        {
+            canJump = true;
+        }
+    }
       
         
     

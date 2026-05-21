@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemiesScript : MonoBehaviour
 {
+    public float moveSpeed;
     public Rigidbody2D rb;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -12,7 +13,7 @@ public class EnemiesScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.position+= Vector2.left * Time.deltaTime;
+        rb.position+= Vector2.left * moveSpeed * Time.deltaTime;
         //if(Input.GetButtonDown(KeyCode.e))
         
            // Shoot ();

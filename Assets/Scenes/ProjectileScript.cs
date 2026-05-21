@@ -20,7 +20,12 @@ public class ProjectileScript : MonoBehaviour
       GameObject newProjectile= Instantiate(projectilePrefab, transform.position, Quaternion.identity);
 
         Rigidbody2D projectileRB = newProjectile.GetComponent<Rigidbody2D>();
-        projectileRB.linearVelocity = Vector2.right;
+        projectileRB.linearVelocity = Vector2.right * 8;
      } 
+
+    
     }
+    
+   
+    
 }

@@ -7,6 +7,12 @@ TagManager:
   - Portal
   - Key
   - PlayerPower
+  - Projectile
+  - Ground
+  - Enemies
+  - Wall
+  - Wall1
+  - Door
   layers:
   - Default
   - TransparentFX

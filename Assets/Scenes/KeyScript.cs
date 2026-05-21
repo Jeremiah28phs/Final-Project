@@ -3,7 +3,8 @@ using UnityEngine;
 public class KeyScript : MonoBehaviour
 {
   public int keysCollected;
-  //public GameObject door;
+  public GameObject door;
+  public GameObject door2;
 
   void  OnTriggerEnter2D(Collider2D other)
    {
@@ -16,10 +17,12 @@ public class KeyScript : MonoBehaviour
         keysCollected += 1;
     }
 
-     //if(keysCollected >= 4)
+     if(keysCollected >= 4)
      {
-        //Destroy(door);
+      door.SetActive(true);
      }
+     
+     
 
    }
 
