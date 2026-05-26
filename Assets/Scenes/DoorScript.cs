@@ -17,11 +17,11 @@ public class DoorScript : MonoBehaviour
         
     }
 
-    void OnCollisionEnter2D(Collison2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
         if(other.gameObject.tag ==  "Player")
         {
-            Debug.Log("You Won Congradulations")
+            Debug.Log("You Won Congradulations");
         }
     }
 
