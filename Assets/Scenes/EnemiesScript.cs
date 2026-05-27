@@ -4,6 +4,7 @@ public class EnemiesScript : MonoBehaviour
 {
     public float moveSpeed;
     public Rigidbody2D rb;
+    public float maxdistance =25;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,6 +18,17 @@ public class EnemiesScript : MonoBehaviour
         //if(Input.GetButtonDown(KeyCode.e))
         
            // Shoot ();
+
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.left, maxdistance);
+
+            if (hit)
+            {
+                // move
+            }
+            else
+            {
+                // do nothing
+            }
         
     }
     //void onTriggerEnter2D(Collider2D other)
