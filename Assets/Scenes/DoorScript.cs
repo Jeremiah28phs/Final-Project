@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class DoorScript : MonoBehaviour
 {
+    public  GameObject screen;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,6 +23,7 @@ public class DoorScript : MonoBehaviour
         if(other.gameObject.tag ==  "Player")
         {
             Debug.Log("You Won Congradulations");
+            screen.SetActive(true);
         }
     }
 
